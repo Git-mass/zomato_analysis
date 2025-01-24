@@ -35,3 +35,5 @@ The average rating for restaurants offering online orders vs. those that don’t
 Votes Distribution:
 A histogram was created to show the spread of the votes column, reflecting how engaged customers are with restaurants.
 ![votes](https://github.com/user-attachments/assets/137591d8-88ce-43b2-af0b-fe0707a29043)
+Conclusion:
+The Zomato data analysis highlights that Buffets and Quick Bites are the most popular restaurant types. Online ordering significantly improves customer ratings, showcasing the importance of convenience. Strategic pricing within an optimal range maximizes value perception and customer satisfaction. Engaging customers through votes and reviews boosts visibility and drives business growth.
