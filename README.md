@@ -24,6 +24,7 @@ output:
 Distribution of Restaurant Types:
 The listed_in(type) column was analyzed to determine the most common types of restaurants.
 A count plot visualizes the frequency of different restaurant types.
+![distribution](https://github.com/user-attachments/assets/92f698a2-15eb-4a19-ac54-8fd06cb42cb0)
 
 Impact of Online Orders on Ratings:
 Restaurants were grouped by their online order availability (online_order column).
