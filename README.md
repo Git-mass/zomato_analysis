@@ -29,11 +29,9 @@ A count plot visualizes the frequency of different restaurant types.
 Impact of Online Orders on Ratings:
 Restaurants were grouped by their online order availability (online_order column).
 The average rating for restaurants offering online orders vs. those that don’t was calculated and plotted.
+![online](https://github.com/user-attachments/assets/733e41b4-12cb-41f7-8071-f9a88c1cfaf4)
 
-
-Cost and Ratings Relationship:
-Restaurants were grouped by their approximate cost for two people (approx_cost(for two people) column).
-The relationship between cost and average rating was visualized using a line chart.
 
 Votes Distribution:
 A histogram was created to show the spread of the votes column, reflecting how engaged customers are with restaurants.
+![votes](https://github.com/user-attachments/assets/137591d8-88ce-43b2-af0b-fe0707a29043)
